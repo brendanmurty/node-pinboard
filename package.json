@@ -48,7 +48,7 @@
     "sinon": "^7.5.0",
     "source-map-support": "^0.5.16",
     "ts-node": "^8.5.4",
-    "typedoc": "^0.15.3",
+    "typedoc": "^0.23.26",
     "typescript": "^3.7.2"
   }
 }
